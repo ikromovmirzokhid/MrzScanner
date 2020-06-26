@@ -1,6 +1,7 @@
 # MrzScanner
 
 Simple android application to scan MRZ from live camera stream 
+[![Watch the video]](https://www.youtube.com/watch?v=hekgyZ2OjBM)
 
 # References
 [https://github.com/BAData/tesseract-ocr-android-example/blob/master/app/src/main/java/net/badata/tesstwoexample/camera/TextRecognitionHelper.java](https://github.com/BAData/tesseract-ocr-android-example/blob/master/app/src/main/java/net/badata/tesstwoexample/camera/TextRecognitionHelper.java)
