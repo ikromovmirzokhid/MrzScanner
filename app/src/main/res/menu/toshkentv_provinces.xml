@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Bekobod" />
+    <item android:title="Boʻstonliq" />
+    <item android:title="Boʻka" />
+    <item android:title="Chinoz" />
+    <item android:title="Qibray" />
+    <item android:title="Ohangaron" />
+    <item android:title="Oqqoʻrgʻon" />
+    <item android:title="Parkent" />
+    <item android:title="Piskent" />
+    <item android:title="Quyi Chirchiq" />
+    <item android:title="Oʻrta Chirchiq" />
+    <item android:title="Yangiyoʻl" />
+    <item android:title="Yuqori Chirchiq" />
+    <item android:title="Zangiota" />
+    <item android:title="Olmaliq" />
+
+</menu>

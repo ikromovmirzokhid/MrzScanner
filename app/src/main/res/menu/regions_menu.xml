@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/andijon"
+        android:title="Andijon viloyati" />
+    <item
+        android:id="@+id/buxoro"
+        android:title="Buxoro viloyati" />
+    <item
+        android:id="@+id/fargona"
+        android:title="Fargʻona viloyati" />
+    <item
+        android:id="@+id/jizzax"
+        android:title="Jizzax viloyati" />
+    <item
+        android:id="@+id/xorazm"
+        android:title="Xorazm viloyati" />
+    <item
+        android:id="@+id/namangan"
+        android:title="Namangan viloyati" />
+    <item
+        android:id="@+id/navoiy"
+        android:title="Navoiy viloyati" />
+    <item
+        android:id="@+id/qashqadaryo"
+        android:title="Qashqadaryo viloyati" />
+    <item
+        android:id="@+id/qoraqalpoq"
+        android:title="Qoraqalpogʻiston Respublikasi" />
+    <item
+        android:id="@+id/samarqand"
+        android:title="Samarqand viloyati" />
+    <item
+        android:id="@+id/sirdaryo"
+        android:title="Sirdaryo viloyati" />
+    <item
+        android:id="@+id/surxandaryo"
+        android:title="Surxondaryo viloyati" />
+    <item
+        android:id="@+id/toshkentVil"
+        android:title="Toshkent viloyati" />
+    <item
+        android:id="@+id/toshkentSH"
+        android:title="Toshkent shahri" />
+
+</menu>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/emptyFragment">
+
+    <fragment
+        android:id="@+id/loginPageFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.LoginPageFragment"
+        android:label="login_page_fragment"
+        tools:layout="@layout/login_page_fragment">
+        <action
+            android:id="@+id/action_loginPageFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainPageFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.MainPageFragment"
+        android:label="main_page_fragment"
+        tools:layout="@layout/main_page_fragment">
+        <action
+            android:id="@+id/action_mainPageFragment_to_cameraFragment"
+            app:destination="@id/cameraFragment" />
+        <action
+            android:id="@+id/action_mainPageFragment_to_blanksFragment2"
+            app:destination="@id/blanksFragment2" />
+        <action
+            android:id="@+id/action_mainPageFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_mainPageFragment_to_loginPageFragment2"
+            app:destination="@id/loginPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/blanksFragment2"
+        android:name="com.hellsayenci.mrzscanner.Fragments.BlanksFragment"
+        android:label="blank_fragment"
+        tools:layout="@layout/blank_fragment">
+        <action
+            android:id="@+id/action_blanksFragment2_to_formsFragment"
+            app:destination="@id/formsFragment" />
+        <action
+            android:id="@+id/action_blanksFragment2_to_settingsFragment"
+            app:destination="@id/settingsFragment"
+            app:popUpTo="@id/mainPageFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/formsFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.FormsFragment"
+        android:label="forms_fragment"
+        tools:layout="@layout/forms_fragment">
+        <action
+            android:id="@+id/action_formsFragment_to_personInfosFragment"
+            app:destination="@id/personInfosFragment" />
+        <action
+            android:id="@+id/action_formsFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.SettingsFragment"
+        android:label="settings_fragment"
+        tools:layout="@layout/settings_fragment">
+        <action
+            android:id="@+id/action_settingsFragment_to_blanksFragment2"
+            app:destination="@id/blanksFragment2"
+            app:popUpTo="@id/mainPageFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/personInfosFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.PersonInfosFragment"
+        android:label="person_infos_fragment"
+        tools:layout="@layout/person_infos_fragment">
+        <action
+            android:id="@+id/action_personInfosFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/checkScannedInfoFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.CheckScannedInfoFragment"
+        android:label="check_scanned_info_fragment"
+        tools:layout="@layout/check_scanned_info_fragment">
+        <action
+            android:id="@+id/action_checkScannedInfoFragment_to_personInfosFragment"
+            app:destination="@id/personInfosFragment"
+            app:popUpTo="@id/mainPageFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/cameraFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.CameraFragment"
+        android:label="camera_fragment"
+        tools:layout="@layout/camera_fragment">
+        <action
+            android:id="@+id/action_cameraFragment_to_selectBlankTypeFragment"
+            app:destination="@id/selectBlankTypeFragment"
+            app:popUpTo="@id/mainPageFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectBlankTypeFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.SelectBlankTypeFragment"
+        android:label="select_blank_type_fragment"
+        tools:layout="@layout/select_blank_type_fragment">
+        <action
+            android:id="@+id/action_selectBlankTypeFragment_to_checkScannedInfoFragment"
+            app:destination="@id/checkScannedInfoFragment" />
+        <action
+            android:id="@+id/action_selectBlankTypeFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/emptyFragment"
+        android:name="com.hellsayenci.mrzscanner.Fragments.EmptyFragment"
+        android:label="empty_fragment"
+        tools:layout="@layout/empty_fragment">
+        <action
+            android:id="@+id/action_emptyFragment_to_loginPageFragment"
+            app:destination="@id/loginPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_emptyFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment"
+            app:popUpTo="@id/nav_main"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>

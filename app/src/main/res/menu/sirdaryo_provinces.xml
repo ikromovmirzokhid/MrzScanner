@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Sardoba" />
+    <item android:title="Boyovut" />
+    <item android:title="Guliston" />
+    <item android:title="Xovos" />
+    <item android:title="Mirzaobod" />
+    <item android:title="Sayxunobod" />
+    <item android:title="Oqoltin" />
+    <item android:title="Sirdaryo" />
+
+</menu>

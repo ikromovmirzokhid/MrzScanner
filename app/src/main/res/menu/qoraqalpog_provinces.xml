@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Amudaryo" />
+    <item android:title="Beruniy" />
+    <item android:title="Chimboy" />
+    <item android:title="Ellikqalʼa" />
+    <item android:title="Kegeyli" />
+    <item android:title="Moʻynoq" />
+    <item android:title="Nukus" />
+    <item android:title="Qanlikoʻl" />
+    <item android:title="Qoʻngʻirot" />
+    <item android:title="Qoraoʻzak" />
+    <item android:title="Sho'manoy" />
+    <item android:title="Taxtakoʻpir" />
+    <item android:title="Toʻrtkoʻl" />
+    <item android:title="Xoʻjayli" />
+
+</menu>

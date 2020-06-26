@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Olot" />
+    <item android:title="Buxoro" />
+    <item android:title="Gʻijduvon" />
+    <item android:title="Jondor" />
+    <item android:title="Kogon" />
+    <item android:title="Qorakoʻl" />
+    <item android:title="Qorovulbozor" />
+    <item android:title="Peshku" />
+    <item android:title="Romitan" />
+    <item android:title="Shofirkon" />
+    <item android:title="Vobkent" />
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223567247468",
+    "firebase_url": "https://passport-scanner-server.firebaseio.com",
+    "project_id": "passport-scanner-server",
+    "storage_bucket": "passport-scanner-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223567247468:android:0196b4e4547597dbf58049",
+        "android_client_info": {
+          "package_name": "com.hellsayenci.mrzscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223567247468-8bv58l69iqvuiqjqrms76d46ohoj91qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7rwIi4Oqn2bc0XJE2TbWAT7UdJdgxew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223567247468-8bv58l69iqvuiqjqrms76d46ohoj91qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

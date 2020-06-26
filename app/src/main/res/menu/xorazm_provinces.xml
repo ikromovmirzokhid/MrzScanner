@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Bogʻot" />
+    <item android:title="Gurlan" />
+    <item android:title="Xonqa" />
+    <item android:title="Hazorasp" />
+    <item android:title="Xiva" />
+    <item android:title="Qoʻshkoʻpir" />
+    <item android:title="Shovot" />
+    <item android:title="Urganch" />
+    <item android:title="Yangiariq" />
+    <item android:title="Yangibozor" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Bektemir" />
+    <item android:title="Chilonzor" />
+    <item android:title="Hamza" />
+    <item android:title="Mirobod" />
+    <item android:title="Mirzo Ulugʻbek" />
+    <item android:title="Sergeli" />
+    <item android:title="Shayxontohur" />
+    <item android:title="Olmazor" />
+    <item android:title="Uchtepa" />
+    <item android:title="Yakkasaroy" />
+    <item android:title="Yunusobod" />
+</menu>

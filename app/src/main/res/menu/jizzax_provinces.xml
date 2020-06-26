@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Arnasoy" />
+    <item android:title="Baxmal" />
+    <item android:title="Doʻstlik" />
+    <item android:title="Forish" />
+    <item android:title="Gʻallaorol" />
+    <item android:title=" Sharof Rashidov" />
+    <item android:title="Mirzachoʻl" />
+    <item android:title="Paxtakor" />
+    <item android:title="Yangiobod" />
+    <item android:title="Zomin" />
+    <item android:title="Zafarobod" />
+    <item android:title="Zarbdor" />
+</menu>

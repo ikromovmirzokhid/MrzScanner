@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Andijon shahar" />
+    <item
+        android:title="Asaka" />
+    <item
+        android:title="Baliqchi" />
+    <item
+        android:title="Boʻz" />
+    <item
+        android:title="Buloqboshi" />
+    <item
+        android:title="Izboskan" />
+    <item
+        android:title="Jalaquduq" />
+    <item
+        android:title="Xoʻjaobod" />
+    <item
+        android:title="Qoʻrgʻontepa" />
+    <item
+        android:title="Marhamat" />
+    <item
+        android:title="Oltinkoʻl" />
+    <item
+        android:title="Paxtaobod" />
+    <item
+        android:title="Shahrixon" />
+    <item
+        android:title="Ulugʻnor" />
+</menu>

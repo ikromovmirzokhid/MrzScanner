@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Chortoq" />
+    <item android:title="Chust" />
+    <item android:title="Kosonsoy" />
+    <item android:title="Mingbuloq" />
+    <item android:title="Namangan" />
+    <item android:title="Norin" />
+    <item android:title="Pop" />
+    <item android:title="Toʻraqoʻrgʻon" />
+    <item android:title="Uchqoʻrgʻon" />
+    <item android:title="Uychi" />
+    <item android:title="Yangiqoʻrgʻon" />
+
+</menu>

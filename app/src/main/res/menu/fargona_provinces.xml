@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Oltiariq" />
+    <item android:title="Bagʻdod" />
+    <item android:title="Beshariq" />
+    <item android:title="Buvayda" />
+    <item android:title="Dangʻara" />
+    <item android:title="Fargʻona" />
+    <item android:title="Furqat" />
+    <item android:title="Qoʻshtepa" />
+    <item android:title="Quva" />
+    <item android:title="Rishton" />
+    <item android:title="Soʻx" />
+    <item android:title="Toshloq" />
+    <item android:title="Uchkoʻprik" />
+    <item android:title="Oʻzbekiston" />
+    <item android:title="Yozyovon" />
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Bulungʻur" />
+    <item android:title="Ishtixon" />
+    <item android:title="Jomboy" />
+    <item android:title="Kattaqoʻrgʻon" />
+    <item android:title="Qoʻshrabot" />
+    <item android:title="Narpay" />
+    <item android:title="Nurobod" />
+    <item android:title="Oqdaryo" />
+    <item android:title="Paxtachi" />
+    <item android:title="Payariq" />
+    <item android:title="Pastdargʻom" />
+    <item android:title="Samarqand" />
+    <item android:title="Toyloq" />
+    <item android:title="Urgut" />
+
+</menu>

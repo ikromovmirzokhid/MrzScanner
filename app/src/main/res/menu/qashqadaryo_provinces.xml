@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Chiroqchi" />
+    <item android:title="Dehqonobod" />
+    <item android:title="Gʻuzor" />
+    <item android:title="Qamashi" />
+    <item android:title="Qarshi" />
+    <item android:title="Koson" />
+    <item android:title="Kasbi" />
+    <item android:title="Kitob" />
+    <item android:title="Mirishkor" />
+    <item android:title="Muborak" />
+    <item android:title="Nishon" />
+    <item android:title="Shahrisabz" />
+    <item android:title="Yakkabogʻ" />
+
+</menu>
